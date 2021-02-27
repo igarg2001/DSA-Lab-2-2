@@ -1,0 +1,5 @@
+Sorted 10 cards in 0.017000 milliseconds. 
+Sorted 100 cards in 0.063000 milliseconds. 
+Sorted 1000 cards in 2.842000 milliseconds. 
+Sorted 10000 cards in 197.199000 milliseconds. 
+Sorted 100000 cards in 21263.115000 milliseconds. 

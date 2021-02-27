@@ -1,0 +1,5 @@
+Stack Space for 10 records: 380.
+Stack Space for 100 records: 3260.
+Stack Space for 1000 records: 32060.
+Stack Space for 10000 records: 320060.
+Stack Space for 100000 records: 3200060.

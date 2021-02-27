@@ -42,6 +42,6 @@ def main(num_testcases):
 	write_to_file(filename, final_list)
 
 if __name__ == '__main__':
-	number_of_testcases = [10 ** i for i in range(1, 6)]
+	number_of_testcases = [10 ** 8]
 	for num_testcases in number_of_testcases:
 		main(num_testcases)

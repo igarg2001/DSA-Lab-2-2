@@ -1,0 +1,6 @@
+Read 10 cards in 0.158000 milliseconds. 
+Read 100 cards in 0.213000 milliseconds. 
+Read 1000 cards in 1.712000 milliseconds. 
+Read 10000 cards in 15.719000 milliseconds. 
+Read 100000 cards in 64.180000 milliseconds. 
+Read 1000000 cards in 322.925000 milliseconds. 
